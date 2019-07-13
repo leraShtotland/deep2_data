@@ -8,7 +8,7 @@ Joe_Cravens/Joe_Cravens_0001.jpg Jose_Lopez_Beltran/Jose_Lopez_Beltran_0001.jpg 
 William_Donaldson/William_Donaldson_0003.jpg William_Donaldson/William_Donaldson_0007.jpg 1
 Ed_Smart/Ed_Smart_0003.jpg William_Shatner/William_Shatner_0001.jpg 0
 Barbara_Walters/Barbara_Walters_0003.jpg Barbara_Walters/Barbara_Walters_0004.jpg 1
-David_Myers/David_Myers_0002.jpg Kenny_Brack/Kenny_Brack_0001.jpg 0
+David_Myes/David_Myers_0002.jpg Kenny_Brack/Kenny_Brack_0001.jpg 0
 Xavier_Malisse/Xavier_Malisse_0002.jpg Xavier_Malisse/Xavier_Malisse_0003.jpg 1
 Valentino_Rossi/Valentino_Rossi_0004.jpg Valentino_Rossi/Valentino_Rossi_0005.jpg 1
 Ray_Morrough/Ray_Morrough_0001.jpg Ron_Gonzales/Ron_Gonzales_0001.jpg 0
